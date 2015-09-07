@@ -1,0 +1,24 @@
+.divRating ,.movieName{
+    font-weight:bold !important;
+}
+.divDirector{
+    color:#8950DC !important;
+}
+.dummyTable{
+    display:none;
+}
+.poster{
+    width:215px;
+}
+.searchDiv{
+    margin-top:100px;
+}
+.searchWhiteDiv{
+    background-color:white;
+}
+.tableDiv{
+    
+    position: absolute;
+    top: 133px;
+
+}
